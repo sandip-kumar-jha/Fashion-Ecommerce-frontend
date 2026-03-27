@@ -1,4 +1,4 @@
- # Fashion E-commerce Frontend Application 🛍️:-
+ # Fashion E-commerce Frontend Application 🛍️:- 
 
 A complete frontend-focused e-commerce web application inspired by modern online fashion stores.
 This project demonstrates real-world UI flow, component structuring, and user experience used in production-level applications.
