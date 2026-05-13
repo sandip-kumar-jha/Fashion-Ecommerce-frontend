@@ -53,3 +53,40 @@
     font-size: 16px;
     cursor: pointer;
 }
+
+
+@media (max-width: 768px){
+
+  .news-letter{
+    width: 100%;
+    height: auto;
+    padding: 30px 20px;
+    text-align: center;
+  }
+
+  .news-letter h1{
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .news-letter p{
+    font-size: 18px;
+  }
+
+  .news-letter div{
+    width: 100%;
+    max-width: 320px;
+    height: 60px;
+    flex-direction: row;
+  }
+
+  .news-letter input{
+    width: 65%;
+    font-size: 16px;
+  }
+
+  .news-letter button{
+    width: 35%;
+    font-size: 14px;
+  }
+}
